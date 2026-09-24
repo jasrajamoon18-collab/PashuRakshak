@@ -1,0 +1,6 @@
+{
+  "name": "PashuRakshak - Livestock Health Surveillance & Early Warning",
+  "description": "AI-powered livestock disease early warning and epidemiological surveillance platform for Smart India Hackathon 2026. Offline-first reporting, AI triage, GIS outbreak hotspots, and multilingual warning system.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

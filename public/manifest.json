@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "PashuRakshak - Livestock Health Surveillance",
+  "short_name": "PashuRakshak",
+  "description": "AI-powered livestock disease early warning and epidemiological surveillance platform for Smart India Hackathon 2026.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
